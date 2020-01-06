@@ -17,8 +17,6 @@ This script use matplotlib and skimage for detect chromossomes in a image.
 
 python cromo_count.py and input the image name with the file type (jpg, png, gif...).
 
-Or execute the exe and input the image name with the file type.
-
 ### Post scriptum
 
 The output is not accurate. The script miss on average 4 chromosomes.
