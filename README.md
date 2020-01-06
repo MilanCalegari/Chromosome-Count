@@ -1,4 +1,4 @@
-# Cromossomo-Count
+# Chromosome-Count
 This script use matplotlib and skimage for detect chromossomes in a image.
 
 ### For use this script you need to pre-filter the image: 
